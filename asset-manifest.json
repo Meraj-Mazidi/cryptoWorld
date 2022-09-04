@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cryptoWorld/static/css/main.92bd6acc.chunk.css",
+    "main.js": "/cryptoWorld/static/js/main.abbf75af.chunk.js",
+    "main.js.map": "/cryptoWorld/static/js/main.abbf75af.chunk.js.map",
+    "runtime-main.js": "/cryptoWorld/static/js/runtime-main.92c0a7d3.js",
+    "runtime-main.js.map": "/cryptoWorld/static/js/runtime-main.92c0a7d3.js.map",
+    "static/css/2.4a7968ae.chunk.css": "/cryptoWorld/static/css/2.4a7968ae.chunk.css",
+    "static/js/2.10928848.chunk.js": "/cryptoWorld/static/js/2.10928848.chunk.js",
+    "static/js/2.10928848.chunk.js.map": "/cryptoWorld/static/js/2.10928848.chunk.js.map",
+    "index.html": "/cryptoWorld/index.html",
+    "static/css/2.4a7968ae.chunk.css.map": "/cryptoWorld/static/css/2.4a7968ae.chunk.css.map",
+    "static/css/main.92bd6acc.chunk.css.map": "/cryptoWorld/static/css/main.92bd6acc.chunk.css.map",
+    "static/js/2.10928848.chunk.js.LICENSE.txt": "/cryptoWorld/static/js/2.10928848.chunk.js.LICENSE.txt",
+    "static/media/cryptocurrency.1548aced.png": "/cryptoWorld/static/media/cryptocurrency.1548aced.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92c0a7d3.js",
+    "static/css/2.4a7968ae.chunk.css",
+    "static/js/2.10928848.chunk.js",
+    "static/css/main.92bd6acc.chunk.css",
+    "static/js/main.abbf75af.chunk.js"
+  ]
+}
